@@ -1,5 +1,5 @@
 # BounceBall
-This is my first project using iGraphics.<br>
-Author:JARIN SUBAH
+This is my first project for the course CSE102 using iGraphics.<br>
+Author:JARIN SUBAH<br>
 BUET
 
